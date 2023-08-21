@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amir Bakhtiari
 #### I am .NET Developer
-<!--[I am .NET Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
+![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png)
 
 Opportunities don't happen, you create them.
 
