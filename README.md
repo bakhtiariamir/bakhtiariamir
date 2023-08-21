@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Amir Bakhtiari
-#### I am .NET Developer
 ![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png)
 
 Opportunities don't happen, you create them.
@@ -49,4 +48,4 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---!>
+-->
