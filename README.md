@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Amir Bakhtiari
-<div style="width:200;height:700;">
 ![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png) 
-</div>
+
 ## *Opportunities don't happen, you create them.*
 
 Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, ReactJS
@@ -11,8 +10,6 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bakhtiariamir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amirbakhtiari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.bakhtiari.me)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiariamir)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhtiariamir&show_icons=true&count_private=true)  
 
