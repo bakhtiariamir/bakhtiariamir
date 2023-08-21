@@ -14,7 +14,7 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhtiariamir&show_icons=true&count_private=true)  
 
 **languages and tools:**  
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"></code>
+###<code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"></code>
