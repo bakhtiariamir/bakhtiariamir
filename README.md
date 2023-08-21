@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amir Bakhtiari
-![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png)
+![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png) {width=100 }
 
 Opportunities don't happen, you create them.
 
