@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amir Bakhtiari
 <div style="float:left;margin:0 10px 10px 0">
-![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png) 
+[I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png) 
 </div>
 ## *Opportunities don't happen, you create them.*
 
