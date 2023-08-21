@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Amir Bakhtiari
-![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png {width=100 height=100}) 
+![I am .NET Developer](https://github.com/bakhtiariamir/bakhtiariamir/blob/main/bn.png) 
 
-Opportunities don't happen, you create them.
+## *** *Opportunities don't happen, you create them.* ***
 
 Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, ReactJS
 
