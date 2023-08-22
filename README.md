@@ -7,6 +7,7 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 
 - 🔭 I’m currently working on [*StaFLux*](https://github.com/bakhtiariamir/StaFlux) & [*Priqraph*](https://github.com/bakhtiariamir/Predicate.Query.Graph) 
 - 😄 Pronouns: He/ His 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daeiamir&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- https://github.com/dmhendricks/signature-social-icons/tree/master/icons/round-flat-filled/50px/
