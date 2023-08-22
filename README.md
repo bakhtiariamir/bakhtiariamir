@@ -3,12 +3,18 @@
 
 ## *Opportunities don't happen, you create them.*
 
+
+<div>
+  <div class="float:right;width:50%;">
 Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, ReactJS
 
 - 🔭 I’m currently working on [*StaFLux*](https://github.com/bakhtiariamir/StaFlux) & [*Priqraph*](https://github.com/bakhtiariamir/Predicate.Query.Graph) 
-- 😄 Pronouns: He/ His 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daeiamir&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+- 😄 Pronouns: He/ His     
+  </div>
+  <div class="float:right;width:49%;">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daeiamir&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)    
+  </div>  
+</div>
 
 <!-- https://github.com/dmhendricks/signature-social-icons/tree/master/icons/round-flat-filled/50px/
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="background-color:breen" alt='github' height='40'>](https://github.com/bakhtiariamir) 
