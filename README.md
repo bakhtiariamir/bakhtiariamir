@@ -8,7 +8,7 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 - 🔭 I’m currently working on [*StaFLux*](https://github.com/bakhtiariamir/StaFlux) & [*Priqraph*](https://github.com/bakhtiariamir/Predicate.Query.Graph) 
 - 😄 Pronouns: He/ His 
 
-
+<!-- https://github.com/dmhendricks/signature-social-icons/tree/master/icons/round-flat-filled/50px/
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="background-color:breen" alt='github' height='40'>](https://github.com/bakhtiariamir) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amirbakhtiari)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.bakhtiari.me)
@@ -75,4 +75,6 @@ Skills: **C#**, **SQL Server**, **RabbitMQ**, EventStoreDB, Redis, NodeJs, React
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
 -->
